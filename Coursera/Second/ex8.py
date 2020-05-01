@@ -1,6 +1,7 @@
 A, B, C = int(input()), int(input()), int(input())
 D = int(input())
 E = int(input())
+
 if A <= D:
     if B <= E or C <= E:
         print('YES')
